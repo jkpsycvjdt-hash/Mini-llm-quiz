@@ -1,0 +1,8 @@
+﻿id,test,domain,question,option_a,option_b,option_c,response_type,correct_answer,correct_answer_text,notes
+CRT7_01,CRT-7,cognitive_reflection,A bat and a ball cost $1.10 in total. The bat costs a dollar more than the ball. How much does the ball cost (in cents)?,,,,numeric,5,5 cents,
+CRT7_02,CRT-7,cognitive_reflection,"If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets (in minutes)?",,,,numeric,5,5 minutes,
+CRT7_03,CRT-7,cognitive_reflection,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake (in days)?",,,,numeric,47,47 days,
+CRT7_04,CRT-7,cognitive_reflection,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together (in days)?",,,,numeric,4,4 days,
+CRT7_05,CRT-7,cognitive_reflection,Jerry received both the 15th highest and the 15th lowest mark in the class. How many students are in the class?,,,,numeric,29,29 students,
+CRT7_06,CRT-7,cognitive_reflection,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made (in dollars)?",,,,numeric,20,$20 ,
+CRT7_07,CRT-7,cognitive_reflection,"Simon decided to invest $8,000 in the stock market one day early in 2008. Six months after he invested, on July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point, Simon has:",A. broken even in the stock market,B. is ahead of where he began,C. has lost money,multiple_choice,C,C,
